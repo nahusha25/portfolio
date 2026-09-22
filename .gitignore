@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Node (only relevant if you later add tooling)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Vercel
+.vercel
+
+# Environment
+.env
+.env.local
