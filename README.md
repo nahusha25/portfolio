@@ -1,5 +1,10 @@
 # Nahusha R — Software Developer Portfolio
 
+[![Live Site](https://img.shields.io/badge/Live%20Site-nahushar.online-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nahushar.online)
+[![Hosted on GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://nahushar.online)
+
+> 🌐 **Live Portfolio:** [https://nahushar.online](https://nahushar.online) (or [https://www.nahushar.online](https://www.nahushar.online))
+
 A single-page, high-performance developer portfolio for **Nahusha R** — an MCA graduate and Software Developer / Application Developer specializing in ERPNext, Frappe, Python, Java, React, SQL, and relational database systems.
 
 ## Overview
