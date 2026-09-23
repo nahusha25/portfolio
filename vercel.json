@@ -1,4 +1,9 @@
 {
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/Nahusha_R_Resume.pdf", "destination": "/assets/Nahusha_resume.pdf" },
+    { "source": "/assets/Nahusha_R_Resume.pdf", "destination": "/assets/Nahusha_resume.pdf" },
+    { "source": "/Nahusha_resume.pdf", "destination": "/assets/Nahusha_resume.pdf" }
+  ]
 }
