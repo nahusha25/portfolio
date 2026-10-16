@@ -9,17 +9,16 @@ A single-page, high-performance developer portfolio for **Nahusha R** — an MCA
 
 ## Overview
 
-This is a modern static portfolio site built with semantic HTML5, pure CSS3 design tokens, and vanilla JavaScript. It includes a native Developer System Dashboard hero visual, interactive modal views, real-time scroll progress indication, active navigation tracking, instant email clipboard copying, and a downloadable PDF resume.
+This is a modern static portfolio site built with semantic HTML5, pure CSS3 design tokens, and vanilla JavaScript. It includes a native Developer System Dashboard hero visual, interactive modal views, real-time scroll progress indication, active navigation tracking, instant email clipboard copying, and a viewable/downloadable PDF resume.
 
 ### Sections Included
-- **Hero**: Professional positioning, Developer System Dashboard visual, quick CTA links, contact details, and resume download.
+- **Hero**: Professional positioning, Developer System Dashboard visual, quick CTA links, contact details, and resume view/download.
 - **About**: Professional profile summary, core specialization metrics, and engineering background.
 - **Education**: 
   - **Master of Computer Applications (MCA)** — BMS College of Engineering, Bangalore (2024 – 2026)
   - **Bachelor of Computer Applications (BCA)** — KLE Society's Degree College, Bangalore (2021 – 2024)
 - **Experience**: Industry internships:
   - **ERPNext Developer Intern** — ATHRU Technologies Pvt. Ltd., Bangalore (Sep 2026 – Present)
-  - **Software Developer Intern** — gitCoreX, Remote (Mar 2026 – Aug 2026)
 - **Skills**: Organized across:
   - *Programming Languages*: Java, Python, JavaScript, C, SQL
   - *Web & Frameworks*: React, Django, HTML5, CSS3, Bootstrap
@@ -28,8 +27,8 @@ This is a modern static portfolio site built with semantic HTML5, pure CSS3 desi
   - *Tools & Methodologies*: Git, GitHub, RESTful APIs, Agile
 - **Projects**: The 4 featured projects:
   - *AutoFleet – Vehicle Service Management App* (Frappe, ERPNext, Python, MariaDB) [Primary Featured]
+  - *Placement Week Scheduler – Command Center* (Python, FastAPI, Google OR-Tools, Next.js)
   - *Pet Adoption & Rescue Portal* (Python, Django, SQLite)
-  - *Hospital Information & Service Portal* (React, JavaScript, HTML5, Bootstrap)
   - *Clothing E-Commerce Web Application* (JavaScript, HTML5, CSS3, REST APIs)
 - **Certifications & Achievements**:
   - Introduction to Generative AI – IBM SkillBuild
@@ -40,7 +39,7 @@ This is a modern static portfolio site built with semantic HTML5, pure CSS3 desi
 - **Languages & Interests**:
   - *Languages*: English, Kannada, Hindi, Marathi
   - *Interests*: Bike riding, Traveling
-- **Contact**: Direct communication links, one-click email copy, GitHub profile, LinkedIn profile, and resume download.
+- **Contact**: Direct communication links, one-click email copy, GitHub profile, LinkedIn profile, and resume view/download.
 
 ## Tech Stack
 - **Markup**: Semantic HTML5 with accessibility attributes (ARIA).
